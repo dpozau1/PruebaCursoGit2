@@ -1,0 +1,2 @@
+archivo_nuevo
+Línea 1
